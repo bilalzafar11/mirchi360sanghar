@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+# 🌶️ Mirchi360 Sanghar
 
-Template Name: NiceRestaurant
-Template URL: https://bootstrapmade.com/nice-restaurant-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+A modern and responsive **Restaurant Website** 
+This project is designed to showcase a clean UI, professional layout, and mobile-friendly design. 
